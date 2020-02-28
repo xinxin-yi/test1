@@ -1,0 +1,32 @@
+.logout {
+    margin-right: 5px;
+    font-size: 18px;
+}
+
+.welcome {
+    height: 61px;
+    line-height: 61px;
+    overflow: hidden;
+}
+.welcome .box {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: aquamarine;
+    float: left;
+    font-size: 22px;
+    margin: 10px 10px 0 40px;
+}
+.username {
+    margin-left: 10px;
+}
+a:link {
+    text-decoration: none;
+}
+
+.layui-nav-item .layui-nav-child a {
+    padding-left: 40px;
+}
+
